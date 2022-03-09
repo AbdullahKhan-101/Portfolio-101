@@ -30,10 +30,12 @@ const Hero = () => {
           simple to complex React web apps, I provide modern solutions to web
           application.`}
         </p>
-        <button className="px-8 py-2 my-4 mb-5 text-xl font-semibold transition duration-1000 ease-out rounded-full bg-gradient-to-tr hover:from-blue-500 sm:text-2xl hover:to-purple-500 from-purple-500 to-blue-500">
-          Download Resume
-        </button>
-        <hr className="w-[60%]  mx-1 sm:w-[30%] py-3 border-t border-x-blue-500 border-y-purple-400" />
+        <a href="#about">
+          <button className="px-8 py-2 my-4 mb-5 text-xl font-semibold transition duration-1000 ease-out rounded-full bg-gradient-to-tr hover:from-blue-500 sm:text-2xl hover:to-purple-500 from-purple-500 to-blue-500">
+            Learn More
+          </button>
+        </a>
+        <hr className="w-[60%]  mx-1 sm:w-[30%] py-3 border-t border-x-blue-500 border-y-purple-400  " />
       </div>
     </div>
   );

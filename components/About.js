@@ -10,7 +10,7 @@ const About = () => {
   }, []);
 
   return (
-    <div className="text-white bg-slate-900 bg-opacity-[96%]">
+    <div id="about" className="text-white bg-slate-900 bg-opacity-[96%]">
       <div className="max-w-6xl px-2 mx-auto pt-11 md:pt-20">
         <h1
           data-aos="fade-zoom-in"
