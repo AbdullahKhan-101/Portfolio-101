@@ -15,7 +15,7 @@ const About = () => {
         <h1
           data-aos="fade-zoom-in"
           data-aos-easing="ease-in-back"
-          data-aos-delay="600"
+          data-aos-delay="400"
           data-aos-offset="0"
           className="max-w-lg pb-[2px] text-4xl font-semibold md:text-5xl md:pb-1 "
         >
@@ -24,7 +24,7 @@ const About = () => {
         <p
           data-aos="fade-zoom-in"
           data-aos-easing="ease-in-back"
-          data-aos-delay="600"
+          data-aos-delay="400"
           data-aos-offset="0"
           className="max-w-xl mt-6 text-lg leading-8 w-[95%] sm:w-full text-gray-300"
         >
@@ -34,20 +34,10 @@ const About = () => {
           your project, verifying good UI/UX design and back-end. I can help you
           grow/manage your business and ideas.`}
         </p>
-        <h1
-          data-aos="fade-up"
-          data-aos-delay="300"
-          data-aos-duration="900"
-          className="max-w-lg pb-[2px] text-4xl font-semibold md:text-5xl md:pb-1 mt-14 "
-        >
+        <h1 className="max-w-lg pb-[2px] text-4xl font-semibold md:text-5xl md:pb-1 mt-14 ">
           Technologies
         </h1>
-        <p
-          data-aos="fade-up"
-          data-aos-delay="300"
-          data-aos-duration="900"
-          className="max-w-xl mt-6 text-lg leading-8 w-[95%] sm:w-full text-gray-300"
-        >
+        <p className="max-w-xl mt-6 text-lg leading-8 w-[95%] sm:w-full text-gray-300">
           {`I've  worked with a range a technologies in the web development world. From Front-end to Back-end (Firebase). `}
         </p>
         {/* Two card's here */}
