@@ -51,7 +51,7 @@ const Header = () => {
           </a>
         </div>
 
-        <div className="flex items-center space-x-1 lg:space-x-3">
+        <div className="flex items-center space-x-3">
           <a rel="noreferrer" href="https://wa.me/923323876075" target="_blank">
             <WhatsApp className="w-10 text-[#25D366] cursor-pointer h-7 md:hover:-translate-y-1 transition duration-200 ease-out" />
           </a>
