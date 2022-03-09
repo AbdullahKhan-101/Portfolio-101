@@ -56,6 +56,7 @@ const Header = () => {
             <WhatsApp className="w-10 text-[#25D366] cursor-pointer h-7 md:hover:-translate-y-1 transition duration-200 ease-out" />
           </a>
           <a
+            className="hidden sm:inline-flex"
             rel="noreferrer"
             href="https://www.facebook.com/profile.php?id=100028841142122"
             target="_blank"
