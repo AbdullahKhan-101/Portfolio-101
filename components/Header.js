@@ -61,7 +61,7 @@ const Header = () => {
             href="https://www.facebook.com/profile.php?id=100028841142122"
             target="_blank"
           >
-            <Facebook className="w-10 text-[#008ad3] cursor-pointer h-7 md:h-10 md:hover:-translate-y-1 transition duration-200 ease-out hidden sm:inline-flex" />
+            <Facebook className="w-10 text-[#008ad3] cursor-pointer h-7 md:h-10  md:hover:-translate-y-1 transition duration-200 ease-out hidden sm:inline-flex" />
           </a>
           <a
             rel="noreferrer"

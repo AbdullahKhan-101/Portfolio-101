@@ -37,7 +37,7 @@ const Card = () => {
               </a>
               <a
                 rel="noreferrer"
-                href="https://github.com/abdullahkhan44/amazon-clone"
+                href="https://github.com/abdullahkhan-101/amazon-clone"
                 target="_blank"
               >
                 <button className="px-4 py-2 text-lg font-semibold bg-blue-500 rounded-lg hover:bg-blue-600">
@@ -82,7 +82,7 @@ const Card = () => {
               </a>
               <a
                 rel="noreferrer"
-                href="https://github.com/abdullahkhan44/twitter-clone"
+                href="https://github.com/abdullahkhan-101/twitter-clone"
                 target="_blank"
               >
                 <button className="px-4 py-2 text-lg font-semibold bg-blue-500 rounded-lg hover:bg-blue-600">
@@ -127,7 +127,7 @@ const Card = () => {
               </a>
               <a
                 rel="noreferrer"
-                href="https://github.com/abdullahkhan44/Linkedin-clone"
+                href="https://github.com/abdullahkhan-101/Linkedin-clone"
                 target="_blank"
               >
                 <button className="px-4 py-2 text-lg font-semibold bg-blue-500 rounded-lg hover:bg-blue-600">
@@ -168,7 +168,7 @@ const Card = () => {
               </a>
               <a
                 rel="noreferrer"
-                href="https://github.com/abdullahkhan44/airbnb-clone"
+                href="https://github.com/abdullahkhan-101/airbnb-clone"
                 target="_blank"
               >
                 <button className="px-4 py-2 text-lg font-semibold bg-blue-500 rounded-lg hover:bg-blue-600">
@@ -213,7 +213,7 @@ const Card = () => {
               </a>
               <a
                 rel="noreferrer"
-                href="https://github.com/abdullahkhan44/Tesla-clone"
+                href="https://github.com/abdullahkhan-101/Tesla-clone"
                 target="_blank"
               >
                 <button className="px-4 py-2 text-lg font-semibold bg-blue-500 rounded-lg hover:bg-blue-600">
