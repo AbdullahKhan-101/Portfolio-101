@@ -53,7 +53,7 @@ const Header = () => {
 
         <div className="flex items-center space-x-3 lg:space-x-5">
           <a rel="noreferrer" href="https://wa.me/923323876075" target="_blank">
-            <WhatsApp className="w-10 text-[#25D366] cursor-pointer h-7 md:h-10 md:hover:-translate-y-1 transition duration-200 ease-out" />
+            <WhatsApp className="w-10 text-[#25D366] cursor-pointer h-7 md:h-10 md:hover:animate-bounce " />
           </a>
           <a
             className="hidden sm:inline-flex"
@@ -61,21 +61,21 @@ const Header = () => {
             href="https://www.facebook.com/profile.php?id=100028841142122"
             target="_blank"
           >
-            <Facebook className="w-10 text-[#008ad3] cursor-pointer h-7 md:h-10  md:hover:-translate-y-1 transition duration-200 ease-out hidden sm:inline-flex" />
+            <Facebook className="w-10 text-[#008ad3] cursor-pointer h-7 md:h-10  md:hover:animate-bounce  hidden sm:inline-flex" />
           </a>
           <a
             rel="noreferrer"
             href="https://www.linkedin.com/in/abdullah-khan-278aa0233/"
             target="_blank"
           >
-            <LinkedIn className="w-10 text-[#00a0dc] cursor-pointer h-7 md:h-10 md:hover:-translate-y-1 transition duration-200 ease-out" />
+            <LinkedIn className="w-10 text-[#00a0dc] cursor-pointer h-7 md:h-10 md:hover:animate-bounce " />
           </a>
           <a
             target="_blank"
             rel="noreferrer"
             href="https://github.com/abdullahkhan-101"
           >
-            <GitHub className="w-10 text-[#fff]  cursor-pointer h-7 md:h-10 md:hover:-translate-y-1 transition duration-200 ease-out" />
+            <GitHub className="w-10 text-[#fff]  cursor-pointer h-7 md:h-10 md:hover:animate-bounce " />
           </a>
 
           <IconButton>
