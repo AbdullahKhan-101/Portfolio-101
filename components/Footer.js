@@ -40,7 +40,7 @@ const Footer = () => {
               </a>
               <a
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/abdullah-khan-278aa0233/"
+                href="https://www.linkedin.com/in/abdullah-shams-278aa0233/"
                 target="_blank"
               >
                 <LinkedIn className="w-10 text-[#00a0dc] cursor-pointer h-7 sm:h-9 md:hover:-translate-y-1 transition duration-200 ease-out" />

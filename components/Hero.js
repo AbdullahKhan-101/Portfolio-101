@@ -26,7 +26,7 @@ const Hero = () => {
           My Personal Portfolio
         </h1>
         <p className="max-w-xl mt-6 text-lg leading-8 w-[95%] sm:w-full text-gray-300">
-          {`Hi, I'm Abdullah, I'm a full stack Web Developer. Besides developing
+          {`Hi, I'm Abdullah, I'm a Frontend Developer. Besides developing
           simple to complex React web apps, I provide modern solutions to web
           application.`}
         </p>
